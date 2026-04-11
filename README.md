@@ -1,2 +1,2 @@
-# My-CachyOS-Install-Script
-Personal startup script for CachyOS. WIP.
+# CachyOS Utils
+My scripts and utilities for managing systems. Mostly WIP.
