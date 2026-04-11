@@ -1,2 +1,2 @@
 # CachyOS Utils
-My scripts and utilities for managing systems. Mostly WIP.
+Post-install scripts and utilities for managing systems. Mostly WIP.
