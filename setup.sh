@@ -4,7 +4,7 @@
 setup_packages() {
     echo "--- Installing essentials ---"
     sudo pacman -Syu --noconfirm
-    sudo pacman -S --needed --noconfirm git openssh ufw nvtop moonlight-qt sunshine chromium gdu docker
+    sudo pacman -S --needed --noconfirm git openssh ufw nvtop moonlight-qt sunshine chromium gdu docker tailscale rslsync
 }
 
 # 2. Configure SSH and Firewall
